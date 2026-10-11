@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoldAI Trader</string>
+    <string name="chart_title">XAU/USD Live Chart</string>
+    <string name="ai_analyst">AI Trading Assistant</string>
+    <string name="input_placeholder">Tanya analisa teknikal, support/resistance...</string>
+    <string name="send_btn">Kirim</string>
+    <string name="settings_title">Konfigurasi API AI</string>
+    <string name="save_settings">Simpan Konfigurasi</string>
+</resources>

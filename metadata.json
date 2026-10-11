@@ -1,0 +1,6 @@
+{
+  "name": "GoldAI Trader",
+  "description": "Aplikasi grafik live TradingView XAUUSD (Gold) terintegrasi asisten AI custom OpenAI-compatible untuk analisis trading real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
